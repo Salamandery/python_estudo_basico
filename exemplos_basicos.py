@@ -26,3 +26,10 @@ np.random.seed(1)
 np.random.randint(0, 101, 4)
 
 np.random.randint(0, 101, (3,3))
+
+print("ESCREVE TEXTO")
+
+a = int(input("escolha um numero: "))
+b = int(input("escolha outro numero: "))
+
+print(a+b)
